@@ -30,8 +30,5 @@ sum += yield(array[index], starting_point)
   if (starting_point != 0)
      sum -= 300
   end
- 
-
-
 return sum + starting_point
 end
